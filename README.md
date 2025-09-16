@@ -15,7 +15,6 @@ The course covers:
 ## Repo Structure
 - `python_prerequisites/` → Python Pre-requisites
 - `langchain/` → Multi-agent system
-- 
 
 ## Setup
 ```bash
