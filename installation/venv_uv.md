@@ -1,7 +1,7 @@
 ## Set Up with UV Package Manager
 - Much faster than pip
 - https://docs.astral.sh/uv/
-- Disadvantage: easier for working on multiple projects/environments
+- Disadvantage: harder for working on multiple projects/environments
 
 # Steps:
 1. Install UV 
